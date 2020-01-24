@@ -1,0 +1,13 @@
+h2 {
+    text-align: center;
+}
+
+.game {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    padding: 15px;
+    border-bottom: 1px solid gray;
+    max-width: 65%;
+    margin: 0 auto;
+}
